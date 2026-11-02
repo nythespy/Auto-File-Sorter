@@ -15,3 +15,7 @@ My downloads folder is always cluttered with documents, images, and files that a
 
 ## Eisenhower Matrix
 ![System diagram](docs/EisenhowerMatrix193.png)
+
+## Author
+
+Anaya Singh, [a link to your GitHub.](https://github.com/nythespy)
