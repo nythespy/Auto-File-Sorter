@@ -18,4 +18,4 @@ My downloads folder is always cluttered with documents, images, and files that a
 
 ## Author
 
-Anaya Singh, [a link to your GitHub.](https://github.com/nythespy)
+Anaya Singh, [GitHub Link:](https://github.com/nythespy)
