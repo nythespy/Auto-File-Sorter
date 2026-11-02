@@ -6,7 +6,7 @@ This is a smart file organizer that automatically sorts an organizes files in a 
 My downloads folder is always cluttered with documents, images, and files that are hard to find. It would be useful to have some tool that can  automatically sort those files into organized folders based on what type of file it is, and what dated it was created. This would reduce the amount of time I spend manually organizing the files and make the process more efficient.
 
 ## How it works
-![System diagram](docs/CS193 Flowchart.png)
+![System diagram](docs/CS193Flowchart.png)
 
 ## Tech Stack
 Language: Bash
