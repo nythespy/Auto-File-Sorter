@@ -9,9 +9,9 @@ My downloads folder is always cluttered with documents, images, and files that a
 ![System diagram](docs/CS193Flowchart.png)
 
 ## Tech Stack
-Language: Bash
-Libraries: None
-External Tools: VS Code, Terminal, Git/GitHub
+- **Language:** Bash 
+- **Libraries:** None
+- **External tools:** VS Code, Terminal
 
 ## Eisenhower Matrix
 ![System diagram](docs/EisenhowerMatrix193.png)
